@@ -1,4 +1,4 @@
-# DSA-Practice
+# DSA-Practice (Leetcode)
 Solutions and practice for Data Structures and Algorithms in Java.
 
 <!---LeetCode Topics Start-->
